@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1056654345876",
+    "firebase_url": "https://androidbom1-afc33.firebaseio.com",
+    "project_id": "androidbom1-afc33",
+    "storage_bucket": "androidbom1-afc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056654345876:android:33fc900be8b7a45e",
+        "android_client_info": {
+          "package_name": "com.bookofmemes.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056654345876-77ana29mkcob322e3djmtbur31s298kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookofmemes.www",
+            "certificate_hash": "34105ad4face08faa019d8cd3216aa71c7ad4a94"
+          }
+        },
+        {
+          "client_id": "1056654345876-2dn21vdhigp2t42hrg6ch5sbg85joa4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTW9PJ5ItCQZipqZt9etITZKyTyYqEMK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056654345876-2dn21vdhigp2t42hrg6ch5sbg85joa4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4863316888229852~9692943459"
+    }
+  ],
+  "configuration_version": "1"
+}
