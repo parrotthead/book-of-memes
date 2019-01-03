@@ -1,4 +1,4 @@
-# InstagramApp
+# Book Of Memes
 
 <br><b>I have deleted google-services.json. Add yours</b>
 
@@ -10,3 +10,5 @@
 <br>2 - Firebase Panel
 <br>1 - Create Firebase Project (https://console.firebase.google.com/);
 <br>2 - import the file google-service.json into your project
+
+<br>All Rights Reserved.
